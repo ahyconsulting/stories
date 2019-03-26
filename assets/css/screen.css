@@ -722,3 +722,7 @@ License: https://www.wowthemes.net/freebies-license/
   opacity: 0;
   transition: opacity .25s;
 }
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
