@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Geek's Perspective of a Sunny Day
 permalink: /about
 comments: true
 ---
@@ -8,27 +8,27 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">    
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>We code, we play, we read and we enjoy every second of what we do. 'Stories by Ahy' is an attempt to share our experiences at work, share our research, bring you the news and show you a geek's perspective of a sunny day!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/action-adult-adventure-1098365.jpg" alt="Ahy Consulting About" /></p>
+<h4>Our Work</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Please, check our work <a href="https://www.ahyconsulting.com/work">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h4>Contact Us</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Don't feel shy to <a href="https://www.ahyconsulting.com/contact">Contact us</a>!</p>
 
 </div>
 
 <div class="col-md-4">
-    
+
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Harpreet Singh</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Check my <a target="_blank" href="https://www.linkedin.com/in/ahyharpreet/">Linkedin <i class="fab fa-linkedin"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<!--a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a-->
 
 </div>
 </div>
