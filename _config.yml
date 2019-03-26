@@ -4,10 +4,11 @@ title: "Stories by Ahy Consulting"
 description: "Some short stories of our day to day experiences at Ahy Consulting. News, Updates and much more."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
-baseurl: /stories
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+footerlogo: 'assets/images/favicon.png'
+baseurl: ''
+google_analytics: 'UA-72482257-2'
+disqus: 'storiesahyconsulting'
+mailchimp-list: 'https://us11.admin.mailchimp.com/lists/members?id=426353'
 include: ["_pages"]
 permalink: /:title/
 
