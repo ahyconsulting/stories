@@ -1,7 +1,7 @@
 # Site
 name: "Ahy Consulting"
 title: "Stories by Ahy Consulting"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Some short stories of our day to day experiences at Ahy Consulting. News, Updates and much more."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: /stories
