@@ -1,7 +1,7 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
  .mainheading {
      padding:1rem 0rem;
@@ -31,7 +31,7 @@ License: https://www.wowthemes.net/freebies-license/
      margin-bottom:-rem;
 }
  .mediumnavigation {
-     background:rgba(255,255,255,.97);
+     background:#000;
      box-shadow:0 2px 2px -2px rgba(0,0,0,.15);
      transition: top 0.2s ease-in-out;
 }
@@ -311,7 +311,7 @@ License: https://www.wowthemes.net/freebies-license/
     top:100px;
 }
 
- @media (min-width:1024px) {    
+ @media (min-width:1024px) {
      .share ul li {
          display:block;
     }
@@ -352,7 +352,7 @@ License: https://www.wowthemes.net/freebies-license/
      .jumbotron {
         margin-bottom:0;
          border-radius: 0;
-    }    
+    }
     .listfeaturedtag .card {
          height:auto;
     }
@@ -601,7 +601,7 @@ License: https://www.wowthemes.net/freebies-license/
  iframe {
     max-width:100%;
 }
-.transpdark {    
+.transpdark {
     background: rgba(0,0,0,0.75);
     color: #fff;
 }
@@ -623,7 +623,7 @@ License: https://www.wowthemes.net/freebies-license/
          margin:0;
     }
 }
-.jumbotron.fortags { 
+.jumbotron.fortags {
          margin-top: 3rem;
          padding:0;
          border-radius:0;
@@ -722,4 +722,3 @@ License: https://www.wowthemes.net/freebies-license/
   opacity: 0;
   transition: opacity .25s;
 }
-
