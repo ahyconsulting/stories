@@ -724,7 +724,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
-    color: rgba(255,255,255,.9);
+    color: rgba(255,255,255,.9)!important;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -732,5 +732,5 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: rgba(255,255,255,.8);
+    color: rgba(255,255,255,.8)!important;
 }
