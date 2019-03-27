@@ -4,8 +4,8 @@ title:  "Pursuing True Happiness"
 author: harpreet
 categories: [ life, wellness ]
 image: assets/images/blur-color-cube-208147.jpeg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 >There is this saying in Sanskrit:
