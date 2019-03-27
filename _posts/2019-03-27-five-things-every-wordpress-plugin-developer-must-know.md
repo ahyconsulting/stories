@@ -4,7 +4,7 @@ title:  "5 Things Every Wordpress Plugin Developer Must Know"
 author: mona
 categories: [ Web, Wordpress ]
 tags: [red, yellow]
-image: assets/images/01.jpg
+image: assets/images/art-creative-creativity-5836.jpg
 description: "Five Things Every Wordpress Plugin Developer Must Know"
 featured: true
 hidden: true
@@ -12,6 +12,8 @@ hidden: true
 ---
 
 Wordpress is a huge community and one of the most widely used CMS systems in the world. Needless to say, the use and ambiguity of the framework cannot be ignored by our development community. Here's bringing the 5 things that we think, a wordpress plugin developer must know.
+
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/action-adult-adventure-1098365.jpg" alt="Ahy Consulting About" /></p>
 
 #### 01 Modularity is the King
 
