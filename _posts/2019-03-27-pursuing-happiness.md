@@ -8,15 +8,17 @@ featured: false
 hidden: false
 ---
 
->There is this saying in Sanskrit:
-Shanti Tulyam Tapo Naasti, Na Shantoshaat Param Sukham,
+There is this saying in Sanskrit:
+>Shanti Tulyam Tapo Naasti, Na Shantoshaat Param Sukham,
 Na Trushnayah Paro Vyadhirne, Cha Dharmo Dayaparah.
 
 [Hindi]
+
 Shaanti samaan koi tapasya nahi hoti, Man ki santushti samaan koi Sukh nahi.
 Lobh samaan ko rog nahi hota, aur daya-karuna samaan koi dharm nahi.
 
 [English]
+
 There is no pursuit like pursuing peace of mind, there is no happiness like being content.
 There is no illness bigger than greed and there is no Religion bigger than compassion.
 
