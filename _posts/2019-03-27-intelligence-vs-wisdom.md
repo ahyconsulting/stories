@@ -3,7 +3,7 @@ layout: post
 title:  "There is a difference between Intelligence and Wisdom"
 author: harpreet
 categories: [ fearnogorilla, life ]
-image: assets/images/adult-black-and-white-close-up-156731.jpg.jpg
+image: assets/images/adult-black-and-white-close-up-156731.jpg
 featured: false
 hidden: false
 ---
