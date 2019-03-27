@@ -3,7 +3,7 @@ layout: post
 title:  "Pursuing True Happiness"
 author: harpreet
 categories: [ life, wellness ]
-image: assets/images/blur-color-cube-208147.jpeg
+image: assets/images/blur-color-cube-208147.jpg
 featured: false
 hidden: false
 ---
@@ -12,11 +12,11 @@ hidden: false
 Shanti Tulyam Tapo Naasti, Na Shantoshaat Param Sukham,
 Na Trushnayah Paro Vyadhirne, Cha Dharmo Dayaparah.
 
-####[Hindi]
+[Hindi]
 Shaanti samaan koi tapasya nahi hoti, Man ki santushti samaan koi Sukh nahi.
 Lobh samaan ko rog nahi hota, aur daya-karuna samaan koi dharm nahi.
 
-####[English]
+[English]
 There is no pursuit like pursuing peace of mind, there is no happiness like being content.
 There is no illness bigger than greed and there is no Religion bigger than compassion.
 
