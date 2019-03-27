@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rich Mindset vs Poor Mindset"
+title:  "Poor Mindset vs Rich Mindset"
 author: harpreet
 categories: [ life, fearnogorilla ]
 image: assets/images/richvspoor.jpeg
