@@ -10,7 +10,6 @@ hidden: true
 
 Irrespective of your field, career path, your geographical diversity or culture, these 5 skills WILL help you; and sooner you conquer them, better you get at it over time.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/action-adult-adventure-1098365.jpg" alt="Ahy Consulting About" /></p>
 
 #### 01 Learn to Communicate Well
 
