@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-So what is headless exactly? Why is there so buzz around it in the tech world, specifically pertaining to web technology? Let's find out.
+So what is headless exactly? Why is there so much buzz around it in the tech world, specifically pertaining to web technology? Let's find out.
 
 #### My First Encounter, flashback!
 
@@ -27,7 +27,7 @@ This led to the foundation of decoupled architecture for me.
 
 #### So what is headless architecture?
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/headless-architecture.jpg" alt="{{post.title}}" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/headless-architecture.jpg" alt="{{site.title}}" /></p>
 
 Browser only understands Javascript, HTML, CSS and static assets like images, videos etc. So in headless architecture, we separate the entire frontend in Javascript application for rendering HTML and the content of the website is accessible via APIs.
 
@@ -40,12 +40,12 @@ Entire focus is now shifted to a frontend driven application. Better user experi
 
 + <b>Frontend Developers are Happy.</b> By setting the frontend developers free from overlapping responsibilities of the backend, this architecture gives them the opportunity to take full control of the user experience. Needless to say, roles like frontend architecture and frontend developer has an entirely new meaning today.
 
-+ <b>Breaking Barriers.</b> Remember the times when you choose one CMS you were bound by its features? With headless, you can use best tool or CMS for your project, expose the APIs, facilitate the handshake over a unified platform (Hello, GraphQL!) and you are good to go.
++ <b>Breaking Barriers.</b> Remember the times when you choose one CMS, and you were bound by its features? With headless, you can use best tools or CMS for your project, expose the APIs, facilitate the handshake over a unified platform (Hello, GraphQL!) and you are good to go.
 
 
 #### Demystifying the Jazz
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/abstract-art-background-1037992.jpg" alt="{{post.title}}" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/abstract-art-background-1037992.jpg" alt="{{page.title}}" /></p>
 
 
 To sum up, headless website development has the potential to unleash the creative power of front-end developers to deliver faster, more responsive, and richer user experiences. You can see why everyone is so excited.
