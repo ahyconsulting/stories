@@ -34,7 +34,7 @@ The simple and minimal logo is very good for the long run for your business. Usu
 
 #### Conclusion
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/headless-architecture.jpg" alt="{{site.title}} | {{page.title}}" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/acid-citric-citrus-997725.jpg" alt="{{site.title}} | {{page.title}}" /></p>
 
 Be creative and powerful. Design is about exploration and experience. Logo should be unique and simple. Whenever the ideas come into your mind just sketch and go from there. Enjoy the entire experience.
 
