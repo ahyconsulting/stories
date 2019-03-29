@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Logo Designing Tips and Tricks"
-author: harpreet
+author: mona
 categories: [ tech, web, UI/UX ]
 image: assets/images/clouds-conceptual-cone-1262302.jpg
 featured: false
