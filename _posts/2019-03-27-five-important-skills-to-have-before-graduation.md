@@ -4,8 +4,8 @@ title:  "5 Important Skills to Have Before Graduation"
 author: harpreet
 categories: [ tech, fearnogorilla ]
 image: assets/images/art-blocks-colorful-1323587.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Irrespective of your field, career path, your geographical diversity or culture, these 5 skills WILL help you; and sooner you conquer them, better you get at it over time.

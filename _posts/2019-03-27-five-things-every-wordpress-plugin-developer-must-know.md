@@ -3,7 +3,7 @@ layout: post
 title:  "5 Things Every Wordpress Plugin Developer Must Know"
 author: mona
 categories: [ Web, Wordpress ]
-tags: [red, yellow]
+tags: [wordpress, yellow]
 image: assets/images/art-creative-creativity-5836.jpg
 description: "Five Things Every Wordpress Plugin Developer Must Know"
 featured: true
