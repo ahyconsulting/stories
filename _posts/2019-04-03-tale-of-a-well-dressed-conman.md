@@ -36,7 +36,7 @@ My order was ready and I took it back. Couple days later when I returned back I 
 
 #### Carefully Planned Plot
 
-Mr Moustache, chose a busy restaurant which was close to an ATM. Pretended to be on call with the cab driver, creating a sense of emergency. He deliberately chose Rss 200 as many won't think much as the amount is not that big. Involved the bystanders, made eye contact with them and involved them in the conversation. Even though no one really responded to Mr Moustache's question "Do I look like a thief?", he did involve them. He was controlling the intuitive proposition for Mr Cake, by creating an engaging atmosphere.
+Mr Moustache, chose a busy restaurant which was close to an ATM. Pretended to be on call with the cab driver, creating a sense of emergency. He deliberately chose Rs 200 as many won't think much as the amount is not that big. Involved the bystanders, made eye contact with them and involved them in the conversation. Even though no one really responded to Mr Moustache's question "Do I look like a thief?", he did involve them. He was controlling the intuitive proposition for Mr Cake, by creating an engaging atmosphere.
 
 
 #### To help or not to help.
