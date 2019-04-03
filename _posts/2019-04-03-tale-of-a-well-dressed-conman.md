@@ -44,3 +44,7 @@ Mr Moustache, chose a busy restaurant which was close to an ATM. Pretended to be
 I understand that compassion plays a very important role in helping and an encounter like this can completely shatter someone's perspective for life. I know Mr Cake will never trust anyone now or probably will not help. Different people may have different take on this, and also have their own "should have, would have" theories, but, everything happened in the matter of 3 mins. Reacting in the moment, is an entirely different thing.
 
 The times have changed and a good judge of character is an important skill to have today. Don't let anyone take away your compassion but at the same time protect yourself from vulnerabilities like these.
+
+#### Takeaways
+
+Appearances can be deceptive. 
