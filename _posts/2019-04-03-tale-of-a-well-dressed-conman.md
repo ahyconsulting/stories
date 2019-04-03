@@ -11,19 +11,19 @@ hidden: false
 
 #### A Normal Busy Day
 
-It was a busy day for me, I was getting a lot of work done. I took a break and stepped out to buy sandwich and juice. This place is a local restaurant mostly fast rolling snacks and shakes.
+It was a busy day for me, I was getting a lot of work done. I took a break and stepped out to buy sandwich and juice. This place is a local restaurant mostly for fast rolling snacks and shakes.
 
 
 #### The Plot
 
-I was just placing my order then, a mid-aged man, probably in his 40s, dressed in neat formals, lets call him Mr Moustache, came rushing to the counter with a phone clung to his ears and said, "Bhai, zara 200 rupaye do na, cab wale ke paas change nahi hai, mera bhai ATM se withdraw karne gaya hai, but line bohot badi hai!", to the guy at the counter, let's call him Mr Cake. At the same time to someone on the call, "Haan bhai, main yaheen hu, de raha hu aapke paise, don't worry." Then again to Mr Cake, "Please, thoda help kardo, meri family yaheen baithi hai!"
+While I was placing my order, a mid-aged man, probably in his 40s, dressed in neat formals, lets call him Mr Moustache, came rushing to the counter with a phone clung to his ears and said, "Bhai, zara 200 rupaye do na, cab wale ke paas change nahi hai, mera bhai ATM se withdraw karne gaya hai, but line bohot badi hai!", to the guy at the counter, let's call him Mr Cake. At the same time to someone on the call, "Haan bhai, main yaheen hu, de raha hu aapke paise, don't worry." Then again to Mr Cake, "Please, thoda help kardo, meri family yaheen baithi hai!"
 
-Mr Cake: "Aise kaise de du aapko paise? Aisa nahi hota, aise paise nahi de sakte."
-Mr Moustache: "Bhai, meri family wo dekho wahaan baithi hai. Main kahaan bhag raha hu." (He also looked at me and customers around me while saying so)
-Mr Cake: "Mujhe kaise pata wo aapki family hai?"
-Mr Moustache: "Bhai main chor lagta hu kya? ATM ke line mein hai mera bhai, don't worry, family ko chhod ke kahaan jaunga? Abhi 5 mins mein return karta hu."
-Mr Moustache to the guy at phone: "Haan, bhai thoda sabar karo, de raha hu aapko paise."
-Mr Cake: "Theek hai."
+Mr Cake: "Aise kaise de du aapko paise? Aisa nahi hota, aise paise nahi de sakte." <br/>
+Mr Moustache: "Bhai, meri family wo dekho wahaan baithi hai. Main kahaan bhag raha hu." (He also looked at me and customers around me while saying so)<br/>
+Mr Cake: "Mujhe kaise pata wo aapki family hai?"<br/>
+Mr Moustache: "Bhai main chor lagta hu kya? ATM ke line mein hai mera bhai, don't worry, family ko chhod ke kahaan jaunga? Abhi 5 mins mein return karta hu."<br/>
+Mr Moustache to the guy at phone: "Haan, bhai thoda sabar karo, de raha hu aapko paise."<br/>
+Mr Cake: "Theek hai."<br/>
 
 Mr Cake handed over the 200 bucks to him and he walked out, and while stepping out of the stairs, he waved hand at Mr Cake assuring he is just coming back.
 
