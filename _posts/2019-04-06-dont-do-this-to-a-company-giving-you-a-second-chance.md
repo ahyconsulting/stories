@@ -13,11 +13,11 @@ I received a call from this guy asking if we have openings, I had my team attend
 
 After a week he confirmed and took the test, but was not able to clear. As a standard protocol, he was informed accordingly.
 
-Next day he called me again and said he really needs this job. He was graduated 2 years ago, and had to take up a job in BPO due to financial troubles after his engineering. This job will help him support his family along with is career. He said he needs one chance to prove his worth, I told that the assessment was his opportunity to which he said I assure that you won't regret hiring me.
+Next day he called me again and said he really needs this job. He graduated 2 years ago, and had to take up a job in BPO due to financial troubles after his engineering. This job will help him support his family along with his career. He said he needs one chance to prove his worth, I told that the assessment was his opportunity to which he said I assure that you won't regret hiring me.
 
 I was advised otherwise but I wanted to give him another opportunity. We hired him.
 
-After few days we started to notice that he is taking sudden leaves and coming late without informing anyone. His manager asked if there is a reason and he said he was not keeping well and he is getting late because of traffic. To which he was told it is completely fine, but just keep us informed and plan his travel to work with some buffer.
+After few days we started to notice that he is taking sudden leaves and coming late without informing anyone. His manager asked if there is a reason and he said he was not keeping well and he is getting late because of traffic. We said it is completely fine, but just keep us informed and plan the travel to work with some buffer.
 
 This continued for another two weeks where the manager had to chase him, he was not receiving the calls and did not return them. It was time for the manager to have a stern conversation with him about punctuality and discipline. He was getting late to work by 1-2 hours and on some days by 3 hours.
 
