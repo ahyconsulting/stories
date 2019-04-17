@@ -5,8 +5,8 @@ author: harpreet
 categories: [ life, wellness ]
 tags: [ time, mindset ]
 image: assets/images/analogue-black-and-white-black-and-white-599705.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 Recently I came across this bizarre yet convincing theory about time and its relativity to our memories.

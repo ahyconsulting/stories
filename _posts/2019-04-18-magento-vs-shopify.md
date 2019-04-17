@@ -2,8 +2,8 @@
 layout: post
 title:  "Magento vs Shopify, which one is better?"
 author: harpreet
-categories: [ tech ]
-tags: [  ]
+categories: [ tech, web, magento, shopify ]
+tags: [ magentovsshopify, ecommerce  ]
 image: assets/images/magentovsshopify.jpg
 featured: true
 hidden: true
