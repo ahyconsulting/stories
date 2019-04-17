@@ -7,7 +7,7 @@ tags: [  ]
 image: assets/images/magentovsshopify.jpg
 featured: true
 hidden: true
-rating: 4.8
+rating: 4.5
 
 ---
 
