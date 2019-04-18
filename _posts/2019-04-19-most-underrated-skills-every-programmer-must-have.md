@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Most Underrated Skills Every Programmer Must Have"
 author: harpreet
-categories: [ tech, web ]
+categories: [ tech, web, fearnogorilla ]
 tags: [ skills, efficiency, fearnogorilla ]
 image: assets/images/underratedskills.jpg
 featured: false
