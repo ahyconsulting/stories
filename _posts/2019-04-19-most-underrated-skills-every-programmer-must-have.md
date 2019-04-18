@@ -24,7 +24,7 @@ Touch typing will allow you to have a stable posture, you read what you are typi
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/listen.jpg" alt="{{site.title}} | {{page.title}}" /></p>
 
-First step in good communication and to Listen well and Listen carefully. I am not talking about your command on a spoken language. I am talking about your ability to comprehend and express. This, if not done right, will create gaps and lapses in understanding eventually leading to hours of rework and refactoring.
+First step in good communication is to Listen well and Listen carefully. I am not talking about your command on a spoken language. I am talking about your ability to comprehend and express. This, if not done right, will create gaps and lapses in understanding eventually leading to hours of rework and refactoring.
 
 A developer interacts with not just other developers, they also may need to interact with functional and business users. If a developer can translate marketing initiatives to technical specifications effectively and precisely as expected, then rolling out features through sprints becomes a lot easier and faster. Everyone's happy.
 
