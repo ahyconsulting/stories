@@ -30,7 +30,7 @@ A CDN (Content Delivery Network) will cache your entire site and store it in mul
 
 #### 04. Page Size
 
-If you page is heavy, it will take more time to load. Simple. Reduce your page size, by optimising all your media assets. You can optimise all your images to be suited for web. Use progressive Jpegs wherever possible and PNGs only when transparent background is needed. Image formats like WebP (from google) and HEIC/HEIF are comparatively new and promising, but will need support from all major browsers and operating systems.
+If your page is heavy, it will take more time to load. Simple. Reduce your page size, by optimising all your media assets and minifying css and js files. You can optimise all your images to be suited for web. Use progressive Jpegs wherever possible and PNGs only when transparent background is needed. Image formats like WebP (from google) and HEIC/HEIF are comparatively new and promising, but will need support from all major browsers and operating systems.
 
 #### 05. Page Requests
 
