@@ -3,7 +3,7 @@ layout: post
 title:  "10 Ways To Make Your Site Super Fast"
 author: harpreet
 categories: [ tech, web ]
-tags: [  ]
+tags: [ skills, efficiency ]
 image: assets/images/speedupyoursite.jpg
 featured: false
 hidden: false
