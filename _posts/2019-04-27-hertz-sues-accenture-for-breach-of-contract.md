@@ -20,7 +20,7 @@ Hertz complained several deadlines being missed from Accenture. Despite enduring
 
 #### 02. Non Responsive Web Experience
 
-As per the contract, Accenture was supposed to delivery a fully responsive web experience but missed some resolution on tablets. This is one of the most mind-boggling allegations as making the websites any-device ready and responsive is fundamentals and core needs of any website.
+As per the contract, Accenture was supposed to deliver a fully responsive web experience but missed some resolution on tablets. This is one of the most mind-boggling allegations as making the websites any-device ready and responsive is fundamentals and core needs of any website.
 
 Accenture demanded additional hundreds of thousands of dollars to get this fixed, as per Hertz.
 
