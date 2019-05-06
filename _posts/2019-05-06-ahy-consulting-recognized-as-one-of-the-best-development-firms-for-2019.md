@@ -15,7 +15,7 @@ At Ahy, we are building and maintaining skills to tackle any issues and provide 
 We are proud to announce we are featured in Clutch’s report, featuring the top B2B companies in India, specifically for the development category.
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/clutchbadge.png" alt="{{ site.title }}" /></p>
 
-Clutch ranks and evaluates firms based on a set of qualitative and quantitative criteria. One is expertise. Ahy Consulting continues to raise the bar in the development field, particularly among the leading <a href="https://clutch.co/in/developers/ecommerce target="\_blank">Ecommerce development companies</a> on Clutch’s platform. Clutch is a ratings and reviews research firm for companies that provide marketing, development, and general digital services & solutions. They are based in Washington D.C. and conduct reviews for clients of the companies on their site.
+Clutch ranks and evaluates firms based on a set of qualitative and quantitative criteria. One is expertise. Ahy Consulting continues to raise the bar in the development field, particularly among the leading <a href="https://clutch.co/in/developers/ecommerce" target="\_blank">Ecommerce development companies</a> on Clutch’s platform. Clutch is a ratings and reviews research firm for companies that provide marketing, development, and general digital services & solutions. They are based in Washington D.C. and conduct reviews for clients of the companies on their site.
 
 Our recognition stems from our superior reputation in the industry and consistent dedication to serving our client’s needs. Here are a few notable excerpts from our Clutch reviews (and thank you again to our clients for your support and kind word!):
 
