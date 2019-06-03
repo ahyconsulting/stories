@@ -42,7 +42,7 @@ Yellow can definitely is harsh on the screen but when it is used with the proper
 60-30-10 rule is effective and simple by mixing different colors. 60% applied by the main color on the website design, 30% applied by the secondary color and 10% by the accent color
 This proportion is pleasant for the human eye
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/60-30-10.png" alt="{{ site.title }}" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/60-30-10-rule.png" alt="{{ site.title }}" /></p>
 
 #### 3. Color inspiration
 
