@@ -21,11 +21,11 @@ Blue is a primary color scheme used in most of the website. Blue is the safest c
 
 Blue stands for comfort, clarity, calm, trust, integrity, loyalty, reliability.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/blue.png" alt="{{ site.title }}" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/blue.jpg" alt="{{ site.title }}" /></p>
 
 ##### (b) Green stands for freshness, safety
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/green.png" alt="{{ site.title }}" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/green.jpg" alt="{{ site.title }}" /></p>
 
 Whenever we see a green color on a website, it gives us a refreshing and calm feeling. When people think green, they automatically think - healthy, environment, natural, vibrant and growing.
 
@@ -35,7 +35,7 @@ Yellow color stands for positivity, joy, happiness and so on. This is one of the
 
 Yellow can definitely is harsh on the screen but when it is used with the proper color code it will change the overall look of the site.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/yellow.png" alt="{{ site.title }}" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/yellow.jpg" alt="{{ site.title }}" /></p>
 
 #### 2. 60-30-10 rule
 
