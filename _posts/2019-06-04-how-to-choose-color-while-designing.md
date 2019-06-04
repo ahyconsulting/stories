@@ -3,7 +3,7 @@ layout: post
 title: "How to choose color while designing your website"
 author: mona
 categories: [tech, web, UI/UX]
-# image: assets/images/ahyconsulting-clutch.jpg
+image: assets/images/howtochoosecolors.jpg
 featured: false
 hidden: false
 ---
