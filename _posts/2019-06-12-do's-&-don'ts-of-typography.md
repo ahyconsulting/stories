@@ -3,7 +3,7 @@ layout: post
 title: "Do's & Don'ts of Typography"
 author: mona
 categories: [tech, web, UI/UX, typography]
-image: assets/images/typo-thumbnail.jpg
+image: assets/images/typo-thumbnail.png
 featured: false
 hidden: false
 ---
