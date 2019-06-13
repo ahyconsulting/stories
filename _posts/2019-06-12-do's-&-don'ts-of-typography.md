@@ -8,9 +8,6 @@ featured: false
 hidden: false
 ---
 
-Do’s & Don’ts of Typography 
-
-
 While designing a brochure, business card or anything related to typography it can have a huge effect on the look of your designs.
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/typography.png" alt="{{ site.title }}" /></p>
