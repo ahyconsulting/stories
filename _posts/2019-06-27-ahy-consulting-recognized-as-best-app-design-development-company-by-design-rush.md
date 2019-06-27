@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ahy Consulting Recognized as a Leader by Clutch for 2019"
+title:  "Featured as Top App Design & Development Firm on Design Rush"
 author: mona
 categories: [ tech, web ]
 tags: [ efficiency, reviews ]
