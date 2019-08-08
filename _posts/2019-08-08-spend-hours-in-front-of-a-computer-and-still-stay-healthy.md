@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spending hours in front of Computer? Here's some tips to still stay healthy!"
+title:  "Spending hours in front of Computer? Here are some tips to still stay healthy!"
 author: ameer
 categories: [ health, wellness ]
 tags: categories
