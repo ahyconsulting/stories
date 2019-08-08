@@ -2,8 +2,8 @@
 layout: post
 title:  "Spending hours in front of Computer? Here are some tips to still stay healthy!"
 author: ameer
-categories: [ health, wellness ]
-tags: categories
+categories: [ health, wellness, life ]
+tags: [ health, wellness, life ]
 image: assets/images/ap01/Image1workstation-336369_1920.jpg
 featured: false
 hidden: false
