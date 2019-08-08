@@ -30,6 +30,14 @@ authors:
     web: https://www.ahyconsulting.com
     twitter: https://twitter.com/ahyharpreet
     description: "Author, Founder, Developer, Gamer, Dog Lover, Biker, Wanderer"
+  ameer:
+    name: Ameer
+    display_name: Ameer
+    gravatar: f92146ec82b8e58c761da4aa4ec7e38d
+    email: ameer.potrik@ahytech.com
+    web: https://www.ahyconsulting.com
+    twitter: https://twitter.com/ahyconsulting
+    description: "Father, Developer, Gamer, Wanderer"
 
 # Plugins
 plugins:
