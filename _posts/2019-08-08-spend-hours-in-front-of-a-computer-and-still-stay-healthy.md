@@ -26,7 +26,7 @@ As you can see, sitting for 8 plus hours per day does some serious harm to your 
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ap01/Image2people-2565450_1920.jpg" alt="{{ site.title }}" /></p>
 
-###1 - Take a Morning Walk
+### 1 - Take a Morning Walk
 
 One of the best tips we can give you to stay healthy if you work at a computer all day is to do some morning walk.
 
@@ -36,7 +36,7 @@ It takes about 30 days for a body to adjust and adapt to new habits, so after on
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ap01/Image3coffee-1276778_1920.jpg" alt="{{ site.title }}" /></p>
 
 
-###2- Have a cup of morning coffee
+### 2- Have a cup of morning coffee
 
 There is no doubt that drinking coffee comes with a lot of benefits. Thanks to the fact that it is high in antioxidants, it lowers the risk of getting liver disease and prevents type 2 diabetes. We can honestly mention coffee as one of the best and most delicious beverages out there. This beverage has a tendency to disrupt sleep, especially if you drink it in the afternoon. Not to mention, drinking too much coffee can cause anxiety, and in some cases, panic attacks.
 
@@ -46,7 +46,7 @@ In the end, should you drink coffee? Well, the answer is, yes. But, do it in mod
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ap01/Image4eye-691269_1920.jpg" alt="{{ site.title }}" /></p>
 
 
-###3 - Blink more often
+### 3 - Blink more often
 
 Staring at a screen for an extended period of time can change the structure of your tears and no wonder your eyes hurt! Research says people who spent 8 hours behind the desk had lower levels of mucin 5AC, a protein credited for tear stickiness and an even spread across the eye. The good news is that this “damage” is not permanent, and your protein level rises as soon as your eyes are well-rested.
 
@@ -56,7 +56,7 @@ So, to make sure your eyes stay healthy if you work at a computer, all you need 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ap01/Image5fruit-1202313_1920.jpg" alt="{{ site.title }}" /></p>
 
 
-###4 - Keep your gut healthy
+### 4 - Keep your gut healthy
 
 
 
@@ -74,7 +74,7 @@ We would suggest you opt for citrus fruits and nuts. This is by far the most pop
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ap01/Image6aqua-3771946_1920.jpg" alt="{{ site.title }}" /></p>
 
 
-###5 - Keep yourself hydrated
+### 5 - Keep yourself hydrated
 
 
 
@@ -97,7 +97,7 @@ The last benefit we mentioned is connected to the previously mentioned tip – h
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ap01/Image7hand-sanitizer-1416602-1280x960.jpg" alt="{{ site.title }}" /></p>
 
 
-###6 - Keep a Hand Sanitizer
+### 6 - Keep a Hand Sanitizer
 
 Keeping your hands and desk clean is one of the most significant factors to consider to stay healthy if you work at a computer all day. How so?
 
