@@ -18,12 +18,6 @@ A free lunch on a sunny afternoon or allowing someone to leave early on a Friday
 
 Subtly influence their behaviour, so in the critical moment of your product development you will have everyone in high spirits and giving their best rather than losing morale and being less productive? To aid you in this endeavour, we have gathered some tips on motivating your development team.
 
-Research shows that sitting for long periods of time leads to high blood pressure, high blood sugar, high cholesterol levels and obesity. This means you are unconsciously raising your chances of getting a cardiovascular disease or even cancer in the long term.
-
-
-In addition to physical problems, sitting at a desk for a third of a day can lead to psychological issues. Spending too much time in front of a screen leads to social anxiety, as a result of not spending enough time with your loved ones. This type of anxiety often causes insomnia, which then leads to even more stress.
-
-As you can see, sitting for 8 plus hours per day does some serious harm to your whole body. But, fear not. Now you know that back pain is one of the least distressing symptoms you can experience, we are sure you are ready to do something about it and change your mindset. Here then, are some tips on how to stay healthy if you work at a computer all day:
 
 <p class="mb-5"></p>
 
