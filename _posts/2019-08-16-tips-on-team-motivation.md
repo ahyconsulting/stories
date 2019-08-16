@@ -82,9 +82,11 @@ Communicate, but don’t over communicate. Too often project managers who are in
 
 
 
-### 7 - Let Developer's develop
+### 7 - Cut off the ties on time
 
-Communicate, but don’t over communicate. Too often project managers who are insecure about their capabilities schedule too many meetings in an effort to "keep on top of things." Eight developers in a room for an hour talking about nothing in particular is a full man-day of production lost. Communication is important, but over-communicating is wasteful. Schedule those meetings sparingly.
+When someone on the team is not producing, you have to get rid of them. On a long project, the determining factor of how fast a team can produce code is usually dictated by the person that is producing the least. Do not let a sluggard determine where the low-water mark is in terms of production.
 
 
 <p class="mb-5"></p>
+
+If you want to bring your projects in on time, you need to keep your developers motivated and enthusiastic about what they’re doing. These tips will help you keep your team engaged, and help you to bring those tough and challenging projects in on time. Stick to them and see your productivity grow! Also comment down if you have some more suggestions on the topic.
