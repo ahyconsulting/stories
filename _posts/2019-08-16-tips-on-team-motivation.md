@@ -84,7 +84,7 @@ Communicate, but don’t over communicate. Too often project managers who are in
 
 ### 7 - Cut off the ties on time
 
-When someone on the team is not producing, you have to get rid of them. On a long project, the determining factor of how fast a team can produce code is usually dictated by the person that is producing the least. Do not let a sluggard determine where the low-water mark is in terms of production.
+When someone in the team is not producing, you have to get rid of them. On a long project, the determining factor of how fast a team can produce code is usually dictated by the person that is producing the least. Do not let a sluggard determine where the low-water mark is in terms of production.
 
 
 <p class="mb-5"></p>
