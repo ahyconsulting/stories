@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ahy Consulting is a Top B2B Firm in New Jersey! - Clutch"
+title:  "Visual Objects Featured Ahy Consulting as one of the Top Ecommerece Firms"
 author: mona
 categories: [ tech, web ]
 tags: [ efficiency, reviews ]
