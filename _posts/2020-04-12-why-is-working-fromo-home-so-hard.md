@@ -14,7 +14,7 @@ COVID-19 pandemic has changed a lot of things, including our perspective of what
 
 Working from home never felt like a challenge if you would have asked yourself few months ago, but as days go by, you realise it's not as easy as you thought it would.
 
-#So, why is working from home so hard?
+So, why is working from home so hard?
 
 ### The Mindset
 
