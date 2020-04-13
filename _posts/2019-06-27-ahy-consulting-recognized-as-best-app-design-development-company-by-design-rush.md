@@ -5,8 +5,8 @@ author: mona
 categories: [ tech, web ]
 tags: [ efficiency, reviews ]
 image: assets/images/designrushrecognition.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 
 ---
 
