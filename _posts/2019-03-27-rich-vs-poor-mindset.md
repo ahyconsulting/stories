@@ -4,8 +4,8 @@ title:  "Poor Mindset vs Rich Mindset"
 author: harpreet
 categories: [ life, fearnogorilla ]
 image: assets/images/richvspoor.jpeg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 

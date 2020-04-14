@@ -4,8 +4,8 @@ title:  "Never Say I Will Try"
 author: harpreet
 categories: [ tech, fearnogorilla ]
 image: assets/images/action-active-activity-415188.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 
