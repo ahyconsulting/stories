@@ -14,7 +14,7 @@ COVID-19 pandemic has changed a lot of things, including our perspective of what
 
 But working from home is not easy. Find out <a href="https://stories.ahyconsulting.com/why-is-working-fromo-home-so-hard/" target="\_blank"> why working from home is so exhausting </a> in this blog post.
 
-Following are the 5 simple hacks, that you can implement right away to boost your productivity while working from home.
+Following are 5 simple hacks, that you can implement right away to boost your productivity while working from home.
 
 ### 01. Private Space
 
@@ -54,7 +54,7 @@ Do not work continuously for over 2 hours without any break. Take a small 5 min 
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/2020/04/finishworkwfh.jpg" alt="{{ site.title }}" /></p>
 
-Knowing that you will have to end your work day at a fixed time will make you more focussed and driven to finish your work faster. When we stretch your work hours, we subconsciously get more relaxed. We get a feeling (or rather an illusion) that we got a lot of time. We lose the drive to get the work done faster.
+Knowing that you will have to end your work day at a fixed time will make you more focussed and driven to finish your work faster. When we stretch our work hours, we subconsciously get more relaxed. We get a feeling (or rather an illusion) that we got a lot of time. We lose the drive to get the work done faster.
 
 
 These 5 simple tricks will boost your productivity. If you still have trouble focussing, <a href="https://www.linkedin.com/in/ahyharpreet/" target="\_blank">reach out to me on Linkedin</a> and drop me a text, I will help.  
