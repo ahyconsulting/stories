@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yahoo News Featured Ahy Consulting as top eCommerce Developer"
+title:  "Yahoo News Featured Ahy Consulting as top eCommerce Agency"
 author: harpreet
 categories: [ awards, web ]
 tags: [ efficiency, awards ]
@@ -23,4 +23,3 @@ After a bit more of curious googling, found some other high authority news forum
 <a href="https://www.benzinga.com/pressreleases/20/04/p15715594/the-top-ecommerce-development-companies-according-to-ecommerce-development-rating-platform" target="\_blank"> Benzinga Press Release</a>
 
 It is good to find out these surprises in the times of such adversities and global crisis. We do the best we are capable of, and morale-boosters like these push us to surpass our own benchmarks.
- 
