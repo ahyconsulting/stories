@@ -9,7 +9,7 @@ featured: false
 hidden: false
 
 ---
-# Simple isn't always minimal
+
 
 Minimalism is the reduction of quantity. Simplicity is the reduction of complexity. ... ***Simple is not always minimal.***
 
