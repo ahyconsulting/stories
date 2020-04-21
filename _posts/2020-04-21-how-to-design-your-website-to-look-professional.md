@@ -17,7 +17,7 @@ I have seen many of the people put a lot of elements in a homepage..like a new w
 
 ### 02. Always use high-quality images
 
-we know that high-quality images will affect the speed of your website but they are a great way to make it stand out from the rest, always use compressed images it will reduce the image size without losing its quality. This will make your website look stunning as well as very professional. If you have a good budget instead of using stock images, hire a professional photographer.
+We know that high-quality images will affect the speed of your website but they are a great way to make it stand out from the rest, always use compressed images it will reduce the image size without losing its quality. This will make your website look stunning as well as very professional. If you have a good budget instead of using stock images, hire a professional photographer.
 
 ### 03. Color
 
