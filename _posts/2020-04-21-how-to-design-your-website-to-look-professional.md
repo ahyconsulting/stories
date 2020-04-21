@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to design your website look professional"
+title:  "How to design your website to look professional"
 author: mona
 categories: [ design, ux ]
 tags: [ design, ux ]
@@ -9,7 +9,7 @@ featured: false
 hidden: false
 
 ---
-# Tip to make your website look professional
+# Tips to make your website look professional
 
 ### 01. Keep it minimal
 
