@@ -9,7 +9,7 @@ featured: false
 hidden: false
 
 ---
-# Tips to make your website look professional
+### Tips to make your website look professional
 
 ### 01. Keep it minimal
 
@@ -19,7 +19,7 @@ I have seen many of the people put a lot of elements in a homepage..like a new w
 
 we know that high-quality images will affect the speed of your website but they are a great way to make it stand out from the rest, always use compressed images it will reduce the image size without losing its quality. This will make your website look stunning as well as very professional. If you have a good budget instead of using stock images, hire a professional photographer.
 
-### 03. Always use high-quality images
+### 03. Color
 
 Use color scheme as per your business, like green color represents eco-friendly products. The color scheme can have a huge impact on brand image and the immediate appeal of your website. Just do not pick any random favorite color for your website. **(THIS IS JUST A NOO!)**
 
