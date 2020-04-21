@@ -24,7 +24,7 @@ Everything usually starts out perfect, as per the plan. You have a great vision 
 ### So how can you successfully outsource and find a great technology partner?
 
 ## 01. Do your research!
-This will take days, if not weeks. Make your list of top 10-20 web development agencies. Check there credentials on LinkedIn and on <a href="https://www.ecommercecompanies.com/ecommerce-consulting-agencies/" target="\_blank"> online forums </a>. Read their Google Reviews, check their projects. See how appealing their own website is.
+This will take days, if not weeks. Make your list of top 10-20 web development agencies. Check their credentials on LinkedIn. Read their Google Reviews, check their projects. See how appealing their own website is.
 
 After this initial level of filtering, schedule to speak with each one of them. Now observe carefully how they manage you. Is there a streamlined process? Are you facing any challenges just to have a meeting with them? Were they on time to call? If you face communication challenges at this stage, there is a fair possibility that communication is going to be a real challenge during the project develpment lifecycle.
 
@@ -47,3 +47,9 @@ Surprisingly, communication is the biggest challenge when you outsource your pro
 
 
 <a href="https://www.calendly.com/ahyconsulting/book" target="\_blank">You have a project you would like to discuss, and see if we make it to your list? </a>
+
+You may also find good agencies specific to your needs. Example:
+
+<a href="https://www.ecommercecompanies.com/ecommerce-consulting-agencies/" target="\_blank">Top eCommerce Consulting Companies</a>
+
+<a href="https://www.ecommercecompanies.com/woocommerce-developers/" target="\_blank">Top WooCommerce Developers</a>
