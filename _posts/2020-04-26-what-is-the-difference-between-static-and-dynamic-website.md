@@ -59,8 +59,4 @@ Follow a lean and minimal thought process, do not use something which is not nec
 
 Feel free to reach out to me if you need help with what is right for you, using <a href="https://www.calendly.com/ahyconsulting/book" target="\_blank">this link.</a>
 
-You may also find good agencies specific to your needs. Example:
-
-<a href="https://www.ecommercecompanies.com/ecommerce-consulting-agencies/" target="\_blank">Top eCommerce Consulting Companies</a>
-
-<a href="https://www.ecommercecompanies.com/woocommerce-developers/" target="\_blank">Top WooCommerce Developers</a>
+Cheers!
