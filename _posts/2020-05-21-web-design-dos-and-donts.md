@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web Design Dos and Don’ts"
+title:  "Web Design Do's and Don’ts"
 author: Mona
 categories: [ ui, web ]
 tags: [ web, ui ]
