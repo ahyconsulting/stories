@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Web Design Do's and Don’ts"
-author: Mona
+author: mona
 categories: [ ui, web ]
 tags: [ web, ui ]
 image: assets/images/2020/05/dd.jpg
