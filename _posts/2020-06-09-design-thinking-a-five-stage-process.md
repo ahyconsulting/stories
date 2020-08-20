@@ -4,7 +4,7 @@ title:  "Design thinking: A 5 stage process"
 author: Mona
 categories: [ ui, web ]
 tags: [ web, ui ]
-image: assets/images/2020/05/thinking.jpg
+image: assets/images/2020/05/process.png
 featured: false
 hidden: false
 
