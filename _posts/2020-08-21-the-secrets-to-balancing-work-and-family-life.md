@@ -4,7 +4,7 @@ title:   "The Secrets to Balancing Work and Family Life"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
-image: assets/images/2020/05/workandfamily.jpg
+image: assets/images/2020/08/workandfamily.jpg
 featured: false
 hidden: false
 
