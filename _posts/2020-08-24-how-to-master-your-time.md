@@ -1,10 +1,10 @@
 
 ---
 layout: post
-title:   "How to master your time"
-author: Anand
+title:  "Do Not Ignore Your Mental Health"
+author: anand
 categories: [ ui, web ]
-tags: [ web, ui ]
+tags: [ ui, web ]
 image: assets/images/2020/08/timemanagement.jpg
 featured: false
 hidden: false
