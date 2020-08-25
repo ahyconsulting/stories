@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   "The Secrets to Balancing Work and Family Life"
+title:   "How to master your time"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
