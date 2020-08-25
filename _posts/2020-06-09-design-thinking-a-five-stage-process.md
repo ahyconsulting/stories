@@ -16,7 +16,7 @@ hidden: false
 
 Understanding the user is the goal of this phase. In this phase you sit with the user and understand there needs and point of view. This means observing and engaging with user in order to understand them on a psychological and emotional level. During this phase, the designer seeks to set aside their assumptions and gather real insights about the user. 
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/process.jpg" alt="{{site.title}} | {{page.title}}" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/2020/06/process.png" alt="{{site.title}} | {{page.title}}" /></p>
 
 ### Phase 2: Define
 
