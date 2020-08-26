@@ -5,7 +5,7 @@ description: "Some short stories of our day to day experiences at Ahy Consulting
 logo: 'assets/images/ahyblacklogo.png'
 favicon: 'assets/images/favicon.png'
 footerlogo: 'assets/images/favicon.png'
-baseurl: 
+baseurl: /
 google_analytics: 'UA-72482257-2'
 disqus: 'storiesahyconsulting'
 mailchimp-list: 'https://us11.admin.mailchimp.com/lists/members?id=426353'
