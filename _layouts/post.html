@@ -26,7 +26,7 @@ post_class: post-template
   },
   "publisher": {
     "@type": "Organization",
-    "name": {{ site.title | jsonify }},
+    "name": "Ahy Consulting",
     "url": "{{ site.url }}",
     "logo": {
       "@type": "ImageObject",
@@ -41,9 +41,9 @@ post_class: post-template
   },
   "image": {
     "@type": "ImageObject",
-    "width": {{ page.img_width | default: site.img_width }},
-    "height": {{ page.img_height | default: site.img_height }},
-    "url": "{{ site.url }}{{ page.img_url | default: site.img_url }}"
+    "width": 150,
+    "height": 150,
+    "url": "{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
   }
 }
 </script>
