@@ -7,6 +7,7 @@ tags: [ web, ui ]
 image: assets/images/2020/08/ui.jpg
 featured: false
 hidden: false
+sitemap: true
 
 ---
 
