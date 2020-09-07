@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Tips on How to Start a New Career"
+title: "Tips on How to Start a New Career"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
