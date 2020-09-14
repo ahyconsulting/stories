@@ -4,7 +4,7 @@ title: "4 Ways You Can Make Money As a Student in 2020"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
-image: assets/images/2020/09/brand.jpg
+image: assets/images/2020/09/student.jpg
 featured: false
 hidden: false
 
