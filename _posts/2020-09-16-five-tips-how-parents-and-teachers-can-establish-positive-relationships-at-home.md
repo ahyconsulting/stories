@@ -27,19 +27,19 @@ Each one of us is going through a tough time at the moment. It is indeed very ch
 
 Showing gratitude to parents is a great gesture. The same is advisable to parents as well. The efforts of teachers often go unnoticed. Therefore, parents, too, should not forget to thank teachers for the hard work they put in the classroom, especially during the ongoing pandemic when educators are trying their best to ensure the continuity of learning.
 
- ### 3. Be Compassionate and Kind to the Child 
+### 3. Be Compassionate and Kind to the Child  
 
 In the modern world, the role of a teacher is not limited to delivering education. There are a lot of ways students can learn in the digital age, courtesy, technological advancements. Hence, instead of dictating students, teachers need to act as mentors. A little kindness goes a long way. Also, to build a better relationship with parents, teachers first need to develop a better association with students. 
 
 The well-being of students should be the topmost priority of every teacher. Hence, they should be compassionate to them. To do this, teachers can contact parents to know about the challenges their ward is facing or directly contact students to understand their mindsets.
  
- ### 4. Ask Questions 
+### 4. Ask Questions
 
 To build a strong relationship with parents, teachers must show interest; otherwise, it will seem forceful and superficial. At home, teachers can weekly or monthly engage in a constructive banter, and the simplest way will be to ask questions. As students are also resorting to online platforms such as YouTube, teachers can ask parents who’s the favorite YouTuber of their ward, or which book they are currently reading. 
 
 Teachers can also ask parents how their child is responding to online learning amid the pandemic. These small gestures will help you win parents over. Parents are mostly concerned with the better performance of their child, and when they see a teacher is actively involved in the development process, they feel assured. Hence, teachers must ask questions to build a positive relationship with parents.
  
- ### 5. Encourage Feedback 
+### 5. Encourage Feedback 
 
 Online learning is a new concept in K-12 education. Hence, students need time to adapt to it. Not to mention, teachers are trying their best to provide the optimal learning experience to students at home. Since it’s a new concept, teachers should ask parents about their feedback and suggestions for changes. By doing so, teachers can change their strategies as and when required. 
 
