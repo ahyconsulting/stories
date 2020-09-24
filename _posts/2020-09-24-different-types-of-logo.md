@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Different Types of Logo"
+title: "Different Types of Logos"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
