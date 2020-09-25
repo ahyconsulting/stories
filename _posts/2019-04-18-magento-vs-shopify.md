@@ -11,6 +11,9 @@ rating: 4.5
 
 ---
 
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Magento better than WooCommerce?","acceptedAnswer":{"@type":"Answer","text":"Magento and WooCommerce are two entirely different systems for one purpose. In some cases, Magento is the right fit, and in other cases, WooCommerce is. Usually, Magento is recommended for enterprise solutions and WooCommerce for small to midscale stores.  "}},{"@type":"Question","name":"How much time does it take to build an eCommerce Website?","acceptedAnswer":{"@type":"Answer","text":"You can start selling online in 2 days, on your own website. Obviously, it will come along with very basic features. For something bespoke and custom, it may take somewhere between 6-10 weeks. "}},{"@type":"Question","name":"How to get a website developed for free?","acceptedAnswer":{"@type":"Answer","text":"Absolutely. You just need to learn HTML, CSS, Javascript, jQuery, PHP, a content management system like Wordpress to develop a basic website. But we would recommend you focus on your business, and let us take care of your technology."}},{"@type":"Question","name":"How can I bring my business online? How much time will it take?","acceptedAnswer":{"@type":"Answer","text":"You need a reliable advisor, who can guide you in bringing your business online. Someone who has helped many other businesses to get online. A very simple setup can take 1 week and for something more complex and custom, it may take few months. "}}]}</script>
+
+
 Is Magento better than Shopify? Or is Shopify better?
 
 Well, these are the wrong questions. The right question to think about is, Which of the two platforms is right for you?
