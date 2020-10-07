@@ -4,7 +4,7 @@ title: "How Can Shopify Boost Your E-Commerce Business?"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
-image: assets/images/2020/10/How_Can_Shopify_Boost_Your_E-Commerce_Business_79_.jpg
+image: assets/images/2020/10/erik-mclean-nfoRa6NHTbU-unsplash.jpg
 featured: false
 hidden: false
 
