@@ -23,7 +23,7 @@ An effective way to plan the appearance of your site is to create a mood board. 
 
 A mood board will give you a good starting point for your site design and can help you communicate your ideas to other people.  It should also give you ideas for colors, images, and characters. 
 
-# 7 Steps to a Great Site
+### 7 Steps to a Great Site
 
 ### 1. Planning:
 
