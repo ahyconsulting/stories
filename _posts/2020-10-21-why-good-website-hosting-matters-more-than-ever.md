@@ -4,7 +4,7 @@ title: "Why Good Website Hosting Matters More Than Ever"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
-image: assets/images/2020/10/merakist-l5if0iQfV4c-unsplash.jpg
+image: assets/images/2020/10/pexels-josue-verdejo-4327409.jpg
 featured: false
 hidden: false
 
