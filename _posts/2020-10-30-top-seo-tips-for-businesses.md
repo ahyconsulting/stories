@@ -42,7 +42,7 @@ Although having credible authority in a specific niche or industry increases you
 
 Besides written content, you can also opt for video and multimedia content to retain your users and ensure that your bounce rate does not increase. Backlinking is an integral part of SEO. However, internally linking your website to relevant content that your users will find useful is essential to ensuring ideal traffic attention. 
 
-Conclusion
+### Conclusion
 
 You will need the best digital marketing tricks of 2020 to rank first.  Hiring a great digital marketing agency to help you with everything is a surefire way to do that.  However, stay up-to-date with the latest trends in the digital market. 
 
