@@ -12,10 +12,6 @@ hidden: false
 
 
 
-What Are the Benefits of Using a Marketing and Sales Audit?
-
-
-
 Even when you have performed the audit and there is no change in your business performance, it can help you improve your overall performance as a whole.  There are two main advantages of doing this exercise at least every few months.  This will allow you to stay on course for the performance of your business and give you the opportunity to identify areas of concern and be able to resolve them quickly. 
 
 For one thing, it allows you to identify market needs and understand what they are.  It's more than just trying to find something people are looking for.  Instead, your goal should be to find out what people are searching for, where they are looking for, and why they are looking for.  Knowing how social media marketing performs financially, for example, can help you decide which product to offer or which services to offer best to increase your return on investment. 
