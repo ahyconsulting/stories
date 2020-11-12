@@ -4,7 +4,7 @@ title: "AI in Web Development"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
-image: assets/images/2020/11/ai.jpg
+image: assets/images/2020/11/abstract.jpg
 featured: false
 hidden: false
 
