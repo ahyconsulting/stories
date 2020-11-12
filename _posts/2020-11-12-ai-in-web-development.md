@@ -4,7 +4,7 @@ title: "AI in Web Development"
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
-image: assets/images/2020/11/abstract.jpg
+image: assets/images/2020/11/ai-concept-background-abstract-artificial-human-head-with-eyes-light-digital-future-vision-illustration_333792-87.jpg
 featured: false
 hidden: false
 
