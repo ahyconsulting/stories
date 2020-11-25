@@ -4,7 +4,7 @@ title: "Top 10 Mistakes that businesses make while building their e-commerce web
 author: Anand
 categories: [ ui, web ]
 tags: [ web, ui ]
-image: assets/images/2020/11/AdobeStock_288707575-min-min.jpg
+image: assets/images/2020/11/ec.jpg
 featured: false
 hidden: false
 
