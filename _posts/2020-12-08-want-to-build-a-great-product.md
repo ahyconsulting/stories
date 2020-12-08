@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Want To Build A Great Product?"
+author: Anand
+categories: [ ui, web ]
+tags: [ web, ui ]
+image: assets/images/2020/12/pexels-oladimeji-ajegbile-3314294.jpg
+featured: false
+hidden: false
+
+---
+
 Questions to ask yourself -
 
 ### What problem am I trying to solve?
@@ -47,3 +59,9 @@ If you are unable to do certain tasks, look to hiring an agency or freelancer to
 Feel free to reach out to me if you need help with what is right for you, using <a href="https://www.calendly.com/ahyconsulting/book" target="\_blank">this link.</a>
 
 Cheers!
+
+
+
+
+
+
