@@ -4,7 +4,7 @@ title:  "What is “Strategic Design” anyway"
 author: Anand
 categories: [ tech, web ]
 tags: [ outsource, webdesign ]
-image: assets/images/2020/04/pexels-kaboompics-com-6253.jpg
+image: assets/images/2020/12/pexels-kaboompics-com-6253.jpg
 featured: false
 hidden: false
 
