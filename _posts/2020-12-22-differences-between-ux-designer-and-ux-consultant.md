@@ -4,7 +4,7 @@ title:  "Differences Between UX Designer and UX Consultant"
 author: Anand
 categories: [ tech, web ]
 tags: [ outsource, webdesign ]
-image: assets/images/2020/04/mika-novo-x-HpilsdKEk-unsplash.jpg
+image: assets/images/2020/12/mika-novo-x-HpilsdKEk-unsplash.jpg
 featured: false
 hidden: false
 
