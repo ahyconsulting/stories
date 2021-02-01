@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Five Reasons why your Website require Web Maintenance"
+title:  "5 Biggest Mistakes in Mobile promoting Trends"
 author: Aditya
 categories: [ tech, web ]
 tags: [ outsource, webdesign ]
