@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leading UI/UX Design Trends"
+title:  "Latest SEO Trends to look at for 2021"
 author: Aditya
 categories: [ tech, web ]
 tags: [ outsource, webdesign ]
