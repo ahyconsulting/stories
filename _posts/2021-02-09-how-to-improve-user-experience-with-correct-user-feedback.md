@@ -66,7 +66,7 @@ Toast message/banner/snack bars: these kinds of notifications enable you to shar
 
 You often see a warning message concerning sure practicality being maintenance or briefly unprocurable. Some designers like them to organically pop and disappear, whereas alternative designers like the user to discard them to form positive they’ve seen the message’s contents.
 
-Breadcrumb navigation: crumb navigation presents standing data to users to allow them to understand wherever {they are|they're} within the method and that actions are still needed. this sort of feedback boosts engagement because the user is aware of precisely what number of steps to expect.
+Breadcrumb navigation crumb navigation presents standing data to users to allow them to understand wherever they're within the method and that actions are still needed. this sort of feedback boosts engagement because the user is aware of precisely what number of steps to expect.
 
 ### Conclusion: Should we tend to concentrate on UX?
 Providing a good user experience is essential. User experience usually drives sales. For example, let the user understand what step they’re on throughout the checkout method. Breadcrumbs are a good tool to produce fast feedback to the user.
