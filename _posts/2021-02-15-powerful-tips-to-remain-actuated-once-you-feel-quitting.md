@@ -4,7 +4,7 @@ title:  "Powerful Tips to remain actuated once you feel quitting"
 author: Aditya
 categories: [ tech, web ]
 tags: [ outsource, webdesign ]
-image: assets/images/2021/02/brooke-cagle-ICTKcvnXx_8-unsplash.jpg
+image: assets/images/2021/02/pexels-marcus-aurelius-4064177.jpg
 featured: false
 hidden: false
 
