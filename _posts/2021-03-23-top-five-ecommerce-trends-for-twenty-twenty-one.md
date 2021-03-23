@@ -4,7 +4,7 @@ title:  "Top 5 eCommerce Trends for 2021"
 author: Aditya
 categories: [ tech, web ]
 tags: [ outsource, webdesign ]
-image: assets/images/2021/03/pexels-fauxels-3182752.jpg
+image: assets/images/2021/03/roberto-cortese-ejhjSZKTeeg-unsplash.jpg
 featured: false
 hidden: false
 
